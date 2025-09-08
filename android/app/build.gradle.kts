@@ -8,7 +8,6 @@ plugins {
 android {
     namespace = "com.example.yoruba_food_webview"
     compileSdk = flutter.compileSdkVersion
-    ndkVersion = flutter.ndkVersion
 
     compileOptions {
         sourceCompatibility = JavaVersion.VERSION_11
